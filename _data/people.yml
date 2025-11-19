@@ -1,0 +1,63 @@
+- name: "Justine Sherry"
+  role: "Associate Professor"
+  photo: "/images/people/generic-avatar.svg"
+  affiliation: "Carnegie Mellon University"
+  website: "https://www.justinesherry.com/"
+  
+- name: "Srinivasan Seshan"
+  role: "Professor"
+  photo: "/images/people/srini.jpg"
+  affiliation: "Carnegie Mellon University"
+  website: "https://www.cs.cmu.edu/~srini/"
+
+- name: "Ruben Martins"
+  role: "Assistant Research Professor"
+  photo: "/images/people/generic-avatar.svg"
+  affiliation: "Carnegie Mellon University"
+  website: "https://sat-group.github.io/ruben/"
+
+- name: "Adithya Philip"
+  role: "PhD Student"
+  photo: "/images/people/generic-avatar.svg"
+  affiliation: "Carnegie Mellon University"
+
+- name: "Chris Canel"
+  role: "PhD Student"
+  photo: "/images/people/generic-avatar.svg"
+  affiliation: "Carnegie Mellon University"
+
+- name: "Margarida Ferreira"
+  role: "PhD Student"
+  photo: "/images/people/generic-avatar.svg"
+  affiliation: "Carnegie Mellon University"
+
+- name: "Ranysha Ware"
+  role: "PhD Student"
+  photo: "/images/people/generic-avatar.svg"
+  affiliation: "Carnegie Mellon University"
+
+- name: "Darshil Kaneria"
+  role: "MS Student"
+  photo: "/images/people/generic-avatar.svg"
+  affiliation: "Carnegie Mellon University"
+
+- name: "Ranysha Ware"
+  role: "PhD Student"
+  photo: "/images/people/generic-avatar.svg"
+  affiliation: "Carnegie Mellon University"
+
+- name: "Alexis Schlomer"
+  role: "Undergraduate Student"
+  photo: "/images/people/generic-avatar.svg"
+  affiliation: "Carnegie Mellon University"
+
+- name: "Yash Kothari"
+  role: "Undergraduate Student"
+  photo: "/images/people/generic-avatar.svg"
+  affiliation: "Carnegie Mellon University"
+
+- name: "Fabian MBocheko"
+  role: "Intern"
+  photo: "/images/people/generic-avatar.svg"
+  affiliation: "Carnegie Mellon University"
+
