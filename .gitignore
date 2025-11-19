@@ -1,0 +1,22 @@
+# Jekyll build output
+_site/
+
+# Jekyll cache files
+.jekyll-cache/
+
+# Sass cache files
+.sass-cache/
+
+# Bundler dependencies
+bundle/
+vendor/
+
+# Gemfile lock file (optional, depends on workflow)
+# Gemfile.lock
+
+# Editor and OS specific files
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
