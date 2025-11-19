@@ -9,7 +9,6 @@ _site/
 
 # Bundler dependencies
 bundle/
-vendor/
 
 # Gemfile lock file (optional, depends on workflow)
 # Gemfile.lock
